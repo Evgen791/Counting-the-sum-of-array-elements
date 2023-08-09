@@ -2,8 +2,6 @@
 
 Примерный результат работы программы:
 
-sql
-Copy code
 Sum with threads: 500000500000
 Time with threads: 51 milliseconds
 Sum without threads: 500000500000
